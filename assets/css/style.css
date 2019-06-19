@@ -13,7 +13,8 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
-  padding-bottom: 5rem;
+  padding-top: 20rem;
+  padding-bottom: 3rem; 
 }
 
 hr{
